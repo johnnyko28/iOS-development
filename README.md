@@ -8,7 +8,10 @@ A Dice app <br>
 
 ![](Dicee.gif)
 
+A Quiz App
+
 ![](quiz.gif)
 
+A Weather App
 
 ![](Clima.gif)
